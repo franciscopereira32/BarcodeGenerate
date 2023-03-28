@@ -1,0 +1,16 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\Barcode.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\zxing.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\zxing.presentation.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\zxing.xml
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\bin\Debug\zxing.presentation.xml
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\Barcode\obj\Debug\Barcode.pdb
